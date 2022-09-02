@@ -1,1 +1,1 @@
-# This is a folder for Assignment 02
+# Folder for Assignment 02
