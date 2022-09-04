@@ -18,6 +18,10 @@ Analytically-inclined, detail-oriented, and strategic-thinking professional with
 - **2nd Battalion, 5th Field Artillery Regiment**, Fort Sill, OK, *Director of Operations*, 06/2011-10/2011
 - **Various Organizations**, Various Locations, *Various Positions*, 04/1994-05/2011
 
+## Education
+- **Bachelor of Science in Mathematics**, University of Maryland, Baltimore County, 2019
+- **Bachelor of Arts in History**, Rutgers, the State University of New Jersesy, 2002
+
 ## whoami?
 * **A Programmer** - from Java to Python
 * **A Software Engineer** - from Waterfall to Agile/DevOps
