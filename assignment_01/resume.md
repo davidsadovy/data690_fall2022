@@ -23,7 +23,7 @@ Analytically-inclined, detail-oriented, and strategic-thinking professional with
 - **Various Organizations**, Various Locations, *Various Positions*, 04/1994-05/2011
 
 ## Technical Skills
-- **Programming Languages:** Basic knowledge of *Python, C,* and *Java.*
+- **Programming Languages:** Basic knowledge of *Python, C,* and *Java*
 - **Software:** Experience with *Linux, LaTeX, MATLAB,* and *Maple*
 
 ## Workshops and Conferences
