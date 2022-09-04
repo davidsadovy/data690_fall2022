@@ -1,5 +1,5 @@
 # David Sadovy
-## Contact Information
+### Contact Information
 - **Phone:** 609-375-7351
 - **Email:** d.sadovy@gmail.com
 
