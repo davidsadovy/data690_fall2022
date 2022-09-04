@@ -1,9 +1,20 @@
 # David Sadovy
-## Contact Information
 - **Phone:** 609-375-7351
 - **Email:** d.sadovy@gmail.com
 
+## Career Objectives
+Analytically-inclined, detail-oriented, and strategic-thinking professional with 23 years of military experience and a proven record of bringing innovative yet practical solutions to a wide range of complex challenges in the defense and security domains. My goal is to continute to make meaningful contributions to *national security* while pursuing my passion for *mathematics* and *data science*.
 
+## Experience - Mathematics
+- **Department of Defense**, Fort Meade, MD, *Mathematician*, 11/2021-present
+- **Department of Commerce**, Gaithersburg, MD, *Mathematician*, 02/2021-06/2021
+- **University of Texas at Arlington**, Arlington, TX, *Graduate Teaching Assistant*, 09/2019-01/2020
+- **Air Force Research Laboratory**, Kirtland Air Force Base, Albuquerque, NM, *Summer Intern*, 06/2019-08/2019
+
+## Experience - United States Army
+- **Headquarters, Allied Joint Force Command - Brunssum**, Brunssum, Netherlands, *Information Operations Planner*, 04/2013-082017
+- **Headquarters, International Security Assistance Force Joint Command**, Kabul, Afghanistan, *Afghan National Security Forces Development Staff Officer*, 05/2012-04/2013
+- 
 
 ## whoami?
 * **A Programmer** - from Java to Python
