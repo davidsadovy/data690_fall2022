@@ -19,8 +19,8 @@ Analytically-inclined, detail-oriented, and strategic-thinking professional with
 - **Various Organizations**, Various Locations, *Various Positions*, 04/1994-05/2011
 
 ## Education
-- **Bachelor of Science in Mathematics**, University of Maryland, Baltimore County, 2019
-- **Bachelor of Arts in History**, Rutgers, the State University of New Jersesy, 2002
+- **Bachelor of Science in Mathematics**, *University of Maryland, Baltimore County*, 2019
+- **Bachelor of Arts in History**, *Rutgers, the State University of New Jersey*, 2002
 
 ## whoami?
 * **A Programmer** - from Java to Python
