@@ -12,9 +12,11 @@ Analytically-inclined, detail-oriented, and strategic-thinking professional with
 - **Air Force Research Laboratory**, Kirtland Air Force Base, Albuquerque, NM, *Summer Intern*, 06/2019-08/2019
 
 ## Experience - United States Army
-- **Headquarters, Allied Joint Force Command - Brunssum**, Brunssum, Netherlands, *Information Operations Planner*, 04/2013-082017
-- **Headquarters, International Security Assistance Force Joint Command**, Kabul, Afghanistan, *Afghan National Security Forces Development Staff Officer*, 05/2012-04/2013
-- 
+- **Allied Joint Force Command - Brunssum**, Brunssum, Netherlands, *Information Operations Planner*, 04/2013-082017
+- **International Security Assistance Force Joint Command**, Kabul, Afghanistan, *Afghan National Security Forces Development Staff Officer*, 05/2012-04/2013
+- **5th Corps**, Wiesbaden, Germany, *Assistant Fire Support Coordinator*, 10/2011-05/2012
+- **2nd Battalion, 5th Field Artillery Regiment**, Fort Sill, OK, *Director of Operations*, 06/2011-10/2011
+- **Various Organizations**, Various Locations, *Various Positions*, 04/1994-05/2011
 
 ## whoami?
 * **A Programmer** - from Java to Python
