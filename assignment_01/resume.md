@@ -1,6 +1,5 @@
 # David Sadovy
-**Phone:** 609-375-7351
-**Email:** d.sadovy@gmail.com
+**Phone:** 609-375-7351             **Email:** d.sadovy@gmail.com
 
 
 
