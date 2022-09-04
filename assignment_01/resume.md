@@ -6,8 +6,8 @@
 Analytically-inclined, detail-oriented, and strategic-thinking professional with 23 years of military experience and a proven record of bringing innovative yet practical solutions to a wide range of complex challenges in the defense and security domains. My goal is to continute to make meaningful contributions to *national security* while pursuing my passion for *mathematics* and *data science*.
 
 ## Education
-- **Bachelor of Science in Mathematics**, *University of Maryland, Baltimore County*, 2019
-- **Bachelor of Arts in History**, *Rutgers, the State University of New Jersey*, 2002
+- **Bachelor of Science in Mathematics**, *University of Maryland, Baltimore County*, Baltimore, MD, 2019
+- **Bachelor of Arts in History**, *Rutgers, the State University of New Jersey*, New Brunswick, NJ, 2002
 
 ## Experience - Mathematics
 - **Department of Defense**, Fort Meade, MD, *Mathematician*, 11/2021-present
