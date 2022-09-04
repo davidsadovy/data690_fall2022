@@ -25,5 +25,3 @@ Note:
 4. Submit the link to your assignment_01 folder to Black Board.
 
 ![](SADOVY_Army.jpg)
-
-![](SADOVY_Army.png)
