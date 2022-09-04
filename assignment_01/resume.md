@@ -31,7 +31,7 @@ Analytically-inclined, detail-oriented, and strategic-thinking professional with
 - **Mathematical Association of America MD-DC-VA Section Meeting**, *Frederick, MD*, 2019
 - **Regional Undergraduate Mathematics Research Conference**, Towson University, *Towson, MD*, 2019
 - **Joint Mathematical Meetings**, *Baltimore, MD*, 2019
-- **Dynamics of Excitable Systems Undergraduate Workshop**, Rochester Institute of Technology, *Rochestery, NY*, 2019
+- **Dynamics of Excitable Systems Undergraduate Workshop**, Rochester Institute of Technology, *Rochester, NY*, 2019
 - **Mathematical Association of America MathFest**, *Columbus, OH*, 2016
 
 ## Professional Affiliations
