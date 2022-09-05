@@ -24,4 +24,6 @@ Note:
 3. Use the instructor's resume in this folder as a sample and make your as detailed and well-formatted as possible. 
 4. Submit the link to your assignment_01 folder to Black Board.
 
+<img src="SADOVY_Army.jpg" alt="SADOVY_Army" width="200px;"/>
+
 ![](SADOVY_Army.jpg)
