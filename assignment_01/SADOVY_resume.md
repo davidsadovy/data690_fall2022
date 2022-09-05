@@ -2,7 +2,6 @@
 ### Contact Information
 - **Phone:** 609-375-7351
 - **Email:** d.sadovy@gmail.com
-- $LaTeX$
 
 ## Career Objective
 >Analytically-inclined, detail-oriented, and strategic-thinking professional with 23 years of military experience and a proven record of bringing innovative yet practical solutions to a wide range of complex challenges in the defense and security domains. My goal is to continute to make meaningful contributions to *national security* while pursuing my passion for *mathematics* and *data science*.
@@ -27,7 +26,7 @@
 
 ## Technical Skills
 - **Programming Languages:** Basic knowledge of *Python, C,* and *Java*
-- **Software:** Experience with *Linux, LaTeX, MATLAB,* and *Maple*
+- **Software:** Experience with *Linux,* $LaTeX,$ *MATLAB,* and *Maple*
 
 ## Workshops and Conferences
 - **Joint Mathematical Meetings**, *Denver, CO*, 2020
