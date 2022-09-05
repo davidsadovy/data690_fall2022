@@ -23,9 +23,3 @@ Note:
 2. Please use as many features of Markdown as possible to make your resume look great. Your must be better than mine. 
 3. Use the instructor's resume in this folder as a sample and make your as detailed and well-formatted as possible. 
 4. Submit the link to your assignment_01 folder to Black Board.
-
-![](SADOVY_Army.jpg)
-
-Also wanted to try to display a smaller image.
-
-<img src="SADOVY_Army.jpg" alt="SADOVY_Army" width="200px;"/>
