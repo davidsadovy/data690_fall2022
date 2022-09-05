@@ -66,4 +66,5 @@ Analytically-inclined, detail-oriented, and strategic-thinking professional with
 - Expert Field Medical Badge
 - Honorable Order of Saint Barbara
 
+## Official Photo
 ![](SADOVY_Army.jpg)
