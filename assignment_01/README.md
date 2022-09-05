@@ -27,4 +27,5 @@ Note:
 ![](SADOVY_Army.jpg)
 
 Also wanted to try to display a smaller image.
+
 <img src="SADOVY_Army.jpg" alt="SADOVY_Army" width="200px;"/>
