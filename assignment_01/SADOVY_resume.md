@@ -65,3 +65,5 @@ Analytically-inclined, detail-oriented, and strategic-thinking professional with
 - Parachutist Badge
 - Expert Field Medical Badge
 - Honorable Order of Saint Barbara
+
+![](SADOVY_Army.jpg)
