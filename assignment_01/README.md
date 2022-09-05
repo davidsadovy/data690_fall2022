@@ -25,5 +25,3 @@ Note:
 4. Submit the link to your assignment_01 folder to Black Board.
 
 <img src="SADOVY_Army.jpg" alt="SADOVY_Army" width="200px;"/>
-
-![](SADOVY_Army.jpg)
