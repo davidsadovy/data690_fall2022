@@ -3,8 +3,6 @@
 - **Phone:** 609-375-7351
 - **Email:** d.sadovy@gmail.com
 
-`code`
-
 ## Career Objective
 >Analytically-inclined, detail-oriented, and strategic-thinking professional with 23 years of military experience and a proven record of bringing innovative yet practical solutions to a wide range of complex challenges in the defense and security domains. My goal is to continute to make meaningful contributions to *national security* while pursuing my passion for *mathematics* and *data science*.
 
