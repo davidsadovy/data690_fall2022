@@ -26,7 +26,7 @@
 
 ## Technical Skills
 - **Programming Languages:** Basic knowledge of *Python, C,* and *Java*
-- **Software:** Experience with *Linux, LaTeX, MATLAB,* and *Maple*
+- **Software:** Experience with *Linux, $LaTeX$, MATLAB,* and *Maple*
 
 ## Workshops and Conferences
 - **Joint Mathematical Meetings**, *Denver, CO*, 2020
