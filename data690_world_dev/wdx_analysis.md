@@ -1,2 +1,2 @@
 
-![](/charts/school_G7_2010_bar.png)
+![](school_G7_2010_bar.png)
