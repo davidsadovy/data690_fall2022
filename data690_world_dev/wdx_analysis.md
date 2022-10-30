@@ -1,3 +1,8 @@
+# How Does Education Affect Quality of Life?
+- Dave Sadovy
+- 10/30/2022
+
+
 
 ![](charts/school_G7_2010_bar.png)
 
