@@ -85,4 +85,6 @@ While we can be fairly confident that knowledge is associated with greater healt
 
 In this study we may also rely on the anecdotal evidence from our life experiences to support our conclusions.  People learn that smoking causes cancer, so they quit smoking.  Diabetics learn how to manage their blood sugar, so they avoid health complications.  Studies show that seatbelts save lives, so seatbelt laws are passed and traffic fatalities decrease.  In these and many other cases, increased knowledge causes increases health.  Similarly, higher levels of education are well-known to open doors to higher-paying jobs.  Notwithstanding extreme outliers like Elon Musk and other billionaires, workers with PhDs or MDs earn more than those with Master's degrees, who earn more than those with Bachelor's degrees, who earn more than those with high school diplomas.  So we can see how increased knowledge causes increased wealth.  Again, the exact causal relationships between knowledge, health, and wealth are undoubtedly complex, but experience provides strong support to the conclusions of our study.
 
+Based on the results of our investigation, we may reasonably conclude that a life-long pursuit of knowledge may contribute to a higher quality of life!
+
 ![](charts/choropleth.png)
