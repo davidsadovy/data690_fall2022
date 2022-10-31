@@ -24,14 +24,17 @@ Since the more prosperous countries of the world have the luxury to apply more r
 
 ### Average Years of Schooling
 ![](charts/school_G7_2010_bar.png)
+
 The data ranges from a low of 9.11 years of schooling in Italy to a high of 13.53 years in the United States, with an average of 11.4.  
 
 ### Life Expectancy
 ![](charts/life_expectancy_G7_2010_bar.png)
+
 Life Expectancies range from a low of 78.54 years in the United States to a high of 82.84 years in Japan.  The average across the G7 is 80.96 years.
 
 ### GDP Per Capita
 ![](charts/GDP_per_capita_G7_2010_bar.png)
+
 Italy has the lowest GPD per capita at $35,158, while the United States has the highest at $48,650.  The average is $38,668.
 
 
