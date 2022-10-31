@@ -19,7 +19,8 @@ Definitions of the indicators used for this study:
 Since the more prosperous countries of the world have the luxury to apply more resources towards the pursuit of knowledge, this study will look specifically at the the G7 nations: Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States.  (Note: An initial examination was done of the G8, which includes Russia along with the G7.  However, Russia proved to be an outlier in several important metrics, so they have been excluded from this investigation.)  This selection of nations has the additional advantage of representing three of the world's seven regions: East Asia & Pacific, Europe & Central Asia, and North America.  Data for the selected indicators for the G7 is available for the period from 1990 to 2010, so the research will be limited to those years.
 
 ## Indicators by G7 Nation in 2010
-![image](https://user-images.githubusercontent.com/112588261/198912958-e0cc5655-5df2-4221-b387-e0a91e9959f6.png)
+![image](https://user-images.githubusercontent.com/112588261/198913027-dabf1d4c-bce5-4418-9995-8225f93be480.png)
+
 
 ### Average Years of Schooling
 ![](charts/school_G7_2010_bar.png)
