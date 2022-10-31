@@ -19,6 +19,8 @@ Definitions of the indicators used for this study:
 Since the more prosperous countries of the world have the luxury to apply more resources towards the pursuit of knowledge, this study will look specifically at the the G7 nations: Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States.  (Note: An initial examination was done of the G8, which includes Russia along with the G7.  However, Russia proved to be an outlier in several important metrics, so they have been excluded from this investigation.)  This selection of nations has the additional advantage of representing three of the world's seven regions: East Asia & Pacific, Europe & Central Asia, and North America.  Data for the selected indicators for the G7 is available for the period from 1990 to 2010, so the research will be limited to those years.
 
 ## Indicators by G7 Nation in 2010
+![](charts/table.csv)
+
 ### Average Years of Schooling
 ![](charts/school_G7_2010_bar.png)
 The data ranges from a low of 9.11 years of schooling in Italy to a high of 13.53 years in the United States, with an average of 11.4.  
@@ -32,7 +34,6 @@ Life Expectancies range from a low of 78.54 years in the United States to a high
 Italy has the lowest GPD per capita at $35,158, while the United States has the highest at $48,650.  The average is $38,668.
 
 
-![image](https://user-images.githubusercontent.com/112588261/198912332-f464f164-b4e9-433b-bd2f-304717f1640f.png)
 
 
 ![](charts/school_G7_line.png)
