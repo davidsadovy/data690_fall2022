@@ -79,3 +79,4 @@ Again looking at all nations, this scatter plot shows a relationship between sch
 It appears that 1 year of schooling is associated with $3,000 in GPD.  There is much less variation in this scatter plot, indicating a stronger correlation.
 
 ## Conclusion
+![](charts/choropleth.png)
