@@ -55,14 +55,22 @@ Japan's life expectancy has exceeded the rest of the G7 for the entire time peri
 
 The United States has held a strong lead in GDP per capita for the entirety of these two decades.  All seven nations seem to be steadily increasing at roughly the same pace, with the notable exception of the Global Financial Crisis of 2008.  
 
+## Knowledge vs. Quality of Life
 ![](charts/school_v_le_scatter.png)
+
+This scatter plot comparing average years of total schooling with life expectancy for all nations (not just the G7) in 2010 seems to suggest that people with more education live longer, though the correlation does not seem very strong.
 
 ![](charts/school_v_le_regress.png)
 
+This regression shows the correlation between average years of total schooling and life expectancy.  A very rough estimate is that life expectancy increases about 5 years for every additional 3 years of schooling, though there is a great deal of variation.  
+
 ![](charts/school_v_gdp_scatter.png)
+
+Again looking at all nations, this scatter plot shows a relationship between schooling and GDP per capita.  More educated nations tend to be wealthier.
 
 ![](charts/school_v_gdp_regress.png)
 
+It appears that 1 year of schooling is associated with $3,000 in GPD.  There is much less variation in this scatter plot.
 
 ## Future Study
 It would be interesting to investigate possible causes of these drops in schooling years.  
