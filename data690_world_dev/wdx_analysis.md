@@ -23,7 +23,8 @@ Since the more prosperous countries of the world have the luxury to apply more r
 
 
 ### Average Years of Schooling
-![](charts/school_G7_2010_bar.png)
+![image](https://user-images.githubusercontent.com/112588261/198913125-bd692d6e-7e27-402e-8e61-0010fa92c379.png)
+
 
 The data ranges from a low of 9.11 years of schooling in Italy to a high of 13.53 years in the United States, with an average of 11.4.  
 
