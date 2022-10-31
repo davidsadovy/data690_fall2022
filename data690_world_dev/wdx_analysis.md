@@ -2,6 +2,8 @@
 - Dave Sadovy
 - 10/30/2022
 
+
+## Introduction
 Many people believe in knowledge for its own sake.  That is, there is value in learning about the world around us, even if the knowledge gained does not produce any practical results.  Knowledge is not simply a means to an end - it is an end in itself!  Those who embrace this philosophy are often life-long learners.  Pursuing education provides them with both enjoyment and a sense of fulfillment.  But beyond personal satisfaction, does knowledge impact quality of life?
 
 This study will examine possible relationships between knowledge and quality of life.  Knowledge will be approximated by the average years of total schooling a person has attained by age 64.  Quality of life will be represented by two factors.  Life expectancy will serve as a proxy for health, while GPD per capita will stand in for wealth.  The source of the data and accompanying graphs is [The World Development Explorer](https://www.worlddev.xyz).  
