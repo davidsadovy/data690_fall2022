@@ -18,14 +18,14 @@ Definitions of the indicators used for this study:
 
 Since the more prosperous countries of the world have the luxury to apply more resources towards the pursuit of knowledge, this study will look specifically at the the G7 nations: Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States.  (Note: An initial examination was done of the G8, which includes Russia along with the G7.  However, Russia proved to be an outlier in several important metrics, so they have been excluded from this investigation.)  Data for the selected indicators for the G7 is available for the period from 1990 to 2010, so the research will be limited to those years.
 
-
-
-
-
+## Indicators by G7 Nation in 2010
+### Average Years of Schooling
 ![](charts/school_G7_2010_bar.png)
 
+### Life Expectancy
 ![](charts/life_expectancy_G7_2010_bar.png)
 
+### GDP Per Capita
 ![](charts/GDP_per_capita_G7_2010_bar.png)
 
 ![](charts/school_G7_line.png)
