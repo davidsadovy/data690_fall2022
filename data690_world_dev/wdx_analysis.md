@@ -43,7 +43,7 @@ Examining these three bar graphs, it is interesting to note that France, Italy, 
 ### Average Years of Schooling
 ![](charts/school_G7_line.png)
 
-Here we see that the United States has maintained a significant advantage over the entire period, while France and Italy have remained at the bottom. The slopes of each line are relatively constant with a few notable exceptions.  Italy's numbers declined from 1990 to 1995 before beginning a steady rise.  The only other decrease is schooling was in the United Kingdom from 1995 to 2000, which was also followed by a steady rise.  It would be interesting to investigate possible causes of these drops in schooling years.  
+Here we see that the United States has maintained a significant advantage over the entire period, while France and Italy have remained at the bottom. The slopes of each line are relatively constant with a few notable exceptions.  Italy's numbers declined from 1990 to 1995 before beginning a steady rise.  The only other decrease is schooling was in the United Kingdom from 1995 to 2000, which was also followed by a steady rise.  
 
 ### Life Expectancy
 ![](charts/life_expectancy_G7_line.png)
@@ -62,3 +62,7 @@ The United States has held a strong lead in GDP per capita for the entirety of t
 ![](charts/school_v_gdp_scatter.png)
 
 ![](charts/school_v_gdp_regress.png)
+
+
+## Future Study
+It would be interesting to investigate possible causes of these drops in schooling years.  
