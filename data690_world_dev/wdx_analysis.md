@@ -29,7 +29,7 @@ The data ranges from a low of 9.11 years of schooling in Italy to a high of 13.5
 ### Life Expectancy
 ![](charts/life_expectancy_G7_2010_bar.png)
 
-Life Expectancies range from a low of 78.54 years in the United States to a high of 82.84 years in Japan.  The average across the G7 is 80.96 years.  Life expectancies are fairly consistent, with a range of 4.3 years.
+Life Expectancies range from a low of 78.54 years in the United States to a high of 82.84 years in Japan.  The average across the G7 is 80.96 years.  Life expectancies are fairly consistent, with a range of 4.3 years, slightly less than the range in schooling years.
 
 ### GDP Per Capita
 ![](charts/GDP_per_capita_G7_2010_bar.png)
