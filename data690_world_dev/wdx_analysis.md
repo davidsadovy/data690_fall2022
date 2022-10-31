@@ -36,14 +36,24 @@ Life Expectancies range from a low of 78.54 years in the United States to a high
 
 Italy has the lowest GPD per capita at $35,158, while the United States has the highest at $48,650.  The average is $38,668.  Once again the top two are the North American nations.  The United States' GDP per capita is nearly $10,000 above the G7 average.
 
-Examining these three bar graphs, it is interesting to note that France, Italy, and Japan are the bottom three in both Average Years of Schooling and GDP Per Capita, while they are the top three in Life Expectancy.
+Examining these three bar graphs, it is interesting to note that France, Italy, and Japan are the bottom three in both Average Years of Schooling and GDP Per Capita, while they are the top three in Life Expectancy.  
 
+## Indicators by G7 Nations from 1990-2010
 
+### Average Years of Schooling
 ![](charts/school_G7_line.png)
 
+Here we see that the United States has maintained a significant advantage over the entire period, while France and Italy have remained at the bottom. The slopes of each line are relatively constant with a few notable exceptions.  Italy's numbers declined from 1990 to 1995 before beginning a steady rise.  The only other decrease is schooling was in the United Kingdom from 1995 to 2000.  It would be interesting to investigate possible causes of these drop in schooling years.  
+
+### Life Expectancy
 ![](charts/life_expectancy_G7_line.png)
 
+Japan's life expectancy has exceeded the rest of the G7 for the entire time period under study.  The United States has consistently held the bottowm slot, with the gap widening.  
+
+### GDP Per Capita
 ![](charts/GPD_per_capita_G7_line.png)
+
+The United States has held a strong lead in GDP per capita for the entirety of these two decades.  All seven nations seem to be steadily increasing at roughly the same pace, with the notable exception of the Global Financial Crisis of 2008.  
 
 ![](charts/school_v_le_scatter.png)
 
