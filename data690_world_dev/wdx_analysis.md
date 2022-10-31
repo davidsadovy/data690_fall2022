@@ -48,7 +48,7 @@ Here we see that the United States has maintained a significant advantage over t
 ### Life Expectancy
 ![](charts/life_expectancy_G7_line.png)
 
-Japan's life expectancy has exceeded the rest of the G7 for the entire time period under study.  The United States has consistently held the bottowm slot, with the gap widening.  
+Japan's life expectancy has exceeded the rest of the G7 for the entire time period under study.  The United States has consistently held the bottom spot, with the gap widening.  
 
 ### GDP Per Capita
 ![](charts/GPD_per_capita_G7_line.png)
