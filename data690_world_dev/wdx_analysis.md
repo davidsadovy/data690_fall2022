@@ -21,12 +21,27 @@ Since the more prosperous countries of the world have the luxury to apply more r
 ## Indicators by G7 Nation in 2010
 ### Average Years of Schooling
 ![](charts/school_G7_2010_bar.png)
+The data ranges from a low of 9.11 years of schooling in Italy to a high of 13.53 years in the United States, with an average of 11.4.  
 
 ### Life Expectancy
 ![](charts/life_expectancy_G7_2010_bar.png)
+Life Expectancies range from a low of 78.54 years in the United States to a high of 82.84 years in Japan.  The average across the G7 is 80.96 years.
 
 ### GDP Per Capita
 ![](charts/GDP_per_capita_G7_2010_bar.png)
+Italy has the lowest GPD per capita at $35,158, while the United States has the highest at $48,650.  The average is $38,668.
+
+Year	Country Name	Region	Average Years of Total Schooling	GDP Per Capita	Life Expectancy
+2010	Canada	North America	12.43	40099.44824	81.24634146
+2010	Germany	Europe & Central Asia	12.2	38952.6946	79.98780488
+2010	France	Europe & Central Asia	10.01	35902.90311	81.66341463
+2010	United Kingdom	Europe & Central Asia	11.3	36576.58654	80.40243902
+2010	Italy	Europe & Central Asia	9.11	35158.44184	82.03658537
+2010	Japan	East Asia & Pacific	11.22	35335.37351	82.84268293
+2010	United States	North America	13.53	48650.64313	78.54146341
+			11.4	38668.013	80.96010453
+![image](https://user-images.githubusercontent.com/112588261/198912332-f464f164-b4e9-433b-bd2f-304717f1640f.png)
+
 
 ![](charts/school_G7_line.png)
 
