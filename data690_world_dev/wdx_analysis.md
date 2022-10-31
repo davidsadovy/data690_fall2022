@@ -1,6 +1,7 @@
 # Does Knowledge Affect Quality of Life?
 - Dave Sadovy
 - 10/30/2022
+- Individual Project Part A
 
 
 ## Motivation
@@ -77,4 +78,4 @@ Again looking at all nations, this scatter plot shows a relationship between sch
 
 It appears that 1 year of schooling is associated with $3,000 in GPD.  There is much less variation in this scatter plot, indicating a stronger correlation.
 
-
+## Conclusion
