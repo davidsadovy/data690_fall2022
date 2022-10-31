@@ -88,3 +88,5 @@ In this study we may also rely on the anecdotal evidence from our life experienc
 Based on the results of our investigation, we may reasonably conclude that a life-long pursuit of knowledge may contribute to a higher quality of life!
 
 ![](charts/choropleth.png)
+
+*"Early to bed and early to rise, makes a man healthy, wealthy, and wise."* - Benjamin Franklin
