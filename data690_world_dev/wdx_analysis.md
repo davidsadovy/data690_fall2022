@@ -75,7 +75,6 @@ Again looking at all nations, this scatter plot shows a relationship between sch
 ### Regression - Average Years of Schooling vs. GDP Per Capita
 ![](charts/school_v_gdp_regress.png)
 
-It appears that 1 year of schooling is associated with $3,000 in GPD.  There is much less variation in this scatter plot.
+It appears that 1 year of schooling is associated with $3,000 in GPD.  There is much less variation in this scatter plot, indicating a stronger correlation.
 
-## Future Study
-It would be interesting to investigate possible causes of these drops in schooling years.  
+
