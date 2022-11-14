@@ -1,0 +1,148 @@
+,Year,Country Code,Country Name,Region,Income Group,Lending Type,BAR.SCHL.6064,NY.GDP.PCAP.PP.CD,SP.DYN.LE00.IN
+0,1990,CAN,Canada,North America,High income,Not classified,8.65,,77.42195122
+1,1990,DEU,Germany,Europe & Central Asia,High income,Not classified,8.7,19452.5734,75.2277561
+2,1990,FRA,France,Europe & Central Asia,High income,Not classified,5.38,17642.07214,76.6
+3,1990,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,8.05,17084.5988,75.8804878
+4,1990,ITA,Italy,Europe & Central Asia,High income,Not classified,5.6,18627.64397,76.97073171
+5,1990,JPN,Japan,East Asia & Pacific,High income,Not classified,7.86,19972.89275,78.83682927
+6,1990,USA,United States,North America,High income,Not classified,11.45,23888.60001,75.21463415
+7,1991,CAN,Canada,North America,High income,Not classified,,,77.62195122
+8,1991,DEU,Germany,Europe & Central Asia,High income,Not classified,,20984.24987,75.3195122
+9,1991,FRA,France,Europe & Central Asia,High income,Not classified,,18328.01308,76.84878049
+10,1991,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,17413.59266,76.08292683
+11,1991,ITA,Italy,Europe & Central Asia,High income,Not classified,,19540.32457,77.0195122
+12,1991,JPN,Japan,East Asia & Pacific,High income,Not classified,,21270.26613,79.10073171
+13,1991,USA,United States,North America,High income,Not classified,,24342.2589,75.36585366
+14,1992,CAN,Canada,North America,High income,Not classified,,,77.72439024
+15,1992,DEU,Germany,Europe & Central Asia,High income,Not classified,,21709.50134,75.8195122
+16,1992,FRA,France,Europe & Central Asia,High income,Not classified,,18951.04355,77.1
+17,1992,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,17833.57381,76.43414634
+18,1992,ITA,Italy,Europe & Central Asia,High income,Not classified,,20138.67054,77.4195122
+19,1992,JPN,Japan,East Asia & Pacific,High income,Not classified,,21858.2073,79.15390244
+20,1992,USA,United States,North America,High income,Not classified,,25418.99078,75.61707317
+21,1993,CAN,Canada,North America,High income,Not classified,,,77.82439024
+22,1993,DEU,Germany,Europe & Central Asia,High income,Not classified,,21862.80218,75.87073171
+23,1993,FRA,France,Europe & Central Asia,High income,Not classified,,19194.93561,77.3
+24,1993,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,18666.0429,76.38536585
+25,1993,ITA,Italy,Europe & Central Asia,High income,Not classified,,20427.7275,77.72195122
+26,1993,JPN,Japan,East Asia & Pacific,High income,Not classified,,22188.38534,79.29365854
+27,1993,USA,United States,North America,High income,Not classified,,26387.29373,75.4195122
+28,1994,CAN,Canada,North America,High income,Not classified,,,77.82682927
+29,1994,DEU,Germany,Europe & Central Asia,High income,Not classified,,22784.58147,76.27073171
+30,1994,FRA,France,Europe & Central Asia,High income,Not classified,,19992.61582,77.64878049
+31,1994,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,19747.53029,76.88536585
+32,1994,ITA,Italy,Europe & Central Asia,High income,Not classified,,21308.40224,77.92195122
+33,1994,JPN,Japan,East Asia & Pacific,High income,Not classified,,22823.44171,79.68707317
+34,1994,USA,United States,North America,High income,Not classified,,27694.85342,75.6195122
+35,1995,CAN,Canada,North America,High income,Not classified,8.83,,78.02926829
+36,1995,DEU,Germany,Europe & Central Asia,High income,Not classified,9.25,23552.25332,76.42195122
+37,1995,FRA,France,Europe & Central Asia,High income,Not classified,6.55,20766.70164,77.75121951
+38,1995,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,8.29,20617.43284,76.83658537
+39,1995,ITA,Italy,Europe & Central Asia,High income,Not classified,5.44,22382.89796,78.17073171
+40,1995,JPN,Japan,East Asia & Pacific,High income,Not classified,8.2,23859.06605,79.53634146
+41,1995,USA,United States,North America,High income,Not classified,12.12,28690.8757,75.62195122
+42,1996,CAN,Canada,North America,High income,Not classified,,,78.1804878
+43,1996,DEU,Germany,Europe & Central Asia,High income,Not classified,,24071.8978,76.67317073
+44,1996,FRA,France,Europe & Central Asia,High income,Not classified,,21352.88199,77.95365854
+45,1996,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,21968.92882,77.08780488
+46,1996,ITA,Italy,Europe & Central Asia,High income,Not classified,,23052.61895,78.52195122
+47,1996,JPN,Japan,East Asia & Pacific,High income,Not classified,,25000.53392,80.2002439
+48,1996,USA,United States,North America,High income,Not classified,,29967.71272,76.02682927
+49,1997,CAN,Canada,North America,High income,Not classified,,25258.86056,78.43170732
+50,1997,DEU,Germany,Europe & Central Asia,High income,Not classified,,24572.68842,77.07317073
+51,1997,FRA,France,Europe & Central Asia,High income,Not classified,,22243.73435,78.30487805
+52,1997,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,23049.61272,77.21097561
+53,1997,ITA,Italy,Europe & Central Asia,High income,Not classified,,23875.83851,78.82439024
+54,1997,JPN,Japan,East Asia & Pacific,High income,Not classified,,25620.0681,80.42414634
+55,1997,USA,United States,North America,High income,Not classified,,31459.13898,76.42926829
+56,1998,CAN,Canada,North America,High income,Not classified,,26319.67416,78.63414634
+57,1998,DEU,Germany,Europe & Central Asia,High income,Not classified,,25345.06446,77.47560976
+58,1998,FRA,France,Europe & Central Asia,High income,Not classified,,23359.44873,78.60487805
+59,1998,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,23683.5147,77.1902439
+60,1998,ITA,Italy,Europe & Central Asia,High income,Not classified,,25021.06529,78.97560976
+61,1998,JPN,Japan,East Asia & Pacific,High income,Not classified,,25509.8996,80.50146341
+62,1998,USA,United States,North America,High income,Not classified,,32853.67695,76.5804878
+63,1999,CAN,Canada,North America,High income,Not classified,,27841.35335,78.88536585
+64,1999,DEU,Germany,Europe & Central Asia,High income,Not classified,,26291.21108,77.72682927
+65,1999,FRA,France,Europe & Central Asia,High income,Not classified,,24307.50281,78.75609756
+66,1999,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,24463.49633,77.3902439
+67,1999,ITA,Italy,Europe & Central Asia,High income,Not classified,,25602.38947,79.42439024
+68,1999,JPN,Japan,East Asia & Pacific,High income,Not classified,,25735.97109,80.57073171
+69,1999,USA,United States,North America,High income,Not classified,,34515.39023,76.58292683
+70,2000,CAN,Canada,North America,High income,Not classified,9.77,29362.08416,79.13658537
+71,2000,DEU,Germany,Europe & Central Asia,High income,Not classified,9.98,27199.04409,77.92682927
+72,2000,FRA,France,Europe & Central Asia,High income,Not classified,7.53,26090.63447,79.05609756
+73,2000,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,8.19,26472.19371,77.74146341
+74,2000,ITA,Italy,Europe & Central Asia,High income,Not classified,7.11,27072.42136,79.77804878
+75,2000,JPN,Japan,East Asia & Pacific,High income,Not classified,9.6,27287.27019,81.07609756
+76,2000,USA,United States,North America,High income,Not classified,12.86,36329.95607,76.63658537
+77,2001,CAN,Canada,North America,High income,Not classified,,30230.80297,79.33902439
+78,2001,DEU,Germany,Europe & Central Asia,High income,Not classified,,28368.54328,78.32926829
+79,2001,FRA,France,Europe & Central Asia,High income,Not classified,,27490.05173,79.15853659
+80,2001,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,27807.16932,77.99268293
+81,2001,ITA,Italy,Europe & Central Asia,High income,Not classified,,28033.73587,80.12682927
+82,2001,JPN,Japan,East Asia & Pacific,High income,Not classified,,27942.34665,81.41707317
+83,2001,USA,United States,North America,High income,Not classified,,37133.62311,76.83658537
+84,2002,CAN,Canada,North America,High income,Not classified,,30963.053,79.4902439
+85,2002,DEU,Germany,Europe & Central Asia,High income,Not classified,,29178.63747,78.22926829
+86,2002,FRA,France,Europe & Central Asia,High income,Not classified,,28523.88619,79.26097561
+87,2002,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,29062.12387,78.14390244
+88,2002,ITA,Italy,Europe & Central Asia,High income,Not classified,,28736.57711,80.22926829
+89,2002,JPN,Japan,East Asia & Pacific,High income,Not classified,,28623.58845,81.56341463
+90,2002,USA,United States,North America,High income,Not classified,,37997.75966,76.93658537
+91,2003,CAN,Canada,North America,High income,Not classified,,32349.94366,79.74146341
+92,2003,DEU,Germany,Europe & Central Asia,High income,Not classified,,29908.13953,78.3804878
+93,2003,FRA,France,Europe & Central Asia,High income,Not classified,,28172.69565,79.11463415
+94,2003,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,30355.28338,78.44634146
+95,2003,ITA,Italy,Europe & Central Asia,High income,Not classified,,29196.9279,79.98292683
+96,2003,JPN,Japan,East Asia & Pacific,High income,Not classified,,29392.24899,81.76
+97,2003,USA,United States,North America,High income,Not classified,,39490.27496,77.03658537
+98,2004,CAN,Canada,North America,High income,Not classified,,33925.70673,79.89268293
+99,2004,DEU,Germany,Europe & Central Asia,High income,Not classified,,31333.8363,78.6804878
+100,2004,FRA,France,Europe & Central Asia,High income,Not classified,,29060.45099,80.16341463
+101,2004,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,32058.41549,78.74634146
+102,2004,ITA,Italy,Europe & Central Asia,High income,Not classified,,29554.68909,80.7804878
+103,2004,JPN,Japan,East Asia & Pacific,High income,Not classified,,30830.65845,82.0302439
+104,2004,USA,United States,North America,High income,Not classified,,41724.63163,77.48780488
+105,2005,CAN,Canada,North America,High income,Not classified,11.76,36327.22865,80.19268293
+106,2005,DEU,Germany,Europe & Central Asia,High income,Not classified,11.4,31794.09601,78.93170732
+107,2005,FRA,France,Europe & Central Asia,High income,Not classified,9.38,30498.57688,80.16341463
+108,2005,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,9.94,32747.35401,79.04878049
+109,2005,ITA,Italy,Europe & Central Asia,High income,Not classified,7.95,30130.64446,80.78292683
+110,2005,JPN,Japan,East Asia & Pacific,High income,Not classified,9.73,32169.86749,81.92512195
+111,2005,USA,United States,North America,High income,Not classified,13.03,44123.40707,77.48780488
+112,2006,CAN,Canada,North America,High income,Not classified,,38119.4132,80.34390244
+113,2006,DEU,Germany,Europe & Central Asia,High income,Not classified,,34160.34493,79.13170732
+114,2006,FRA,France,Europe & Central Asia,High income,Not classified,,32468.54158,80.81219512
+115,2006,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,34845.59177,79.24878049
+116,2006,ITA,Italy,Europe & Central Asia,High income,Not classified,,32453.58371,81.28292683
+117,2006,JPN,Japan,East Asia & Pacific,High income,Not classified,,33634.63171,82.32195122
+118,2006,USA,United States,North America,High income,Not classified,,46302.00088,77.68780488
+119,2007,CAN,Canada,North America,High income,Not classified,,39575.30975,80.54390244
+120,2007,DEU,Germany,Europe & Central Asia,High income,Not classified,,36287.48224,79.53414634
+121,2007,FRA,France,Europe & Central Asia,High income,Not classified,,34121.34388,81.11219512
+122,2007,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,35695.29849,79.44878049
+123,2007,ITA,Italy,Europe & Central Asia,High income,Not classified,,34141.20077,81.43414634
+124,2007,JPN,Japan,East Asia & Pacific,High income,Not classified,,35015.98657,82.50707317
+125,2007,USA,United States,North America,High income,Not classified,,48050.22378,77.98780488
+126,2008,CAN,Canada,North America,High income,Not classified,,40376.30688,80.69512195
+127,2008,DEU,Germany,Europe & Central Asia,High income,Not classified,,37802.38743,79.73658537
+128,2008,FRA,France,Europe & Central Asia,High income,Not classified,,35095.26568,81.21463415
+129,2008,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,36863.58476,79.6
+130,2008,ITA,Italy,Europe & Central Asia,High income,Not classified,,35523.27131,81.48536585
+131,2008,JPN,Japan,East Asia & Pacific,High income,Not classified,,35273.79115,82.58756098
+132,2008,USA,United States,North America,High income,Not classified,,48570.04598,78.03902439
+133,2009,CAN,Canada,North America,High income,Not classified,,38865.41346,80.99512195
+134,2009,DEU,Germany,Europe & Central Asia,High income,Not classified,,36815.84405,79.83658537
+135,2009,FRA,France,Europe & Central Asia,High income,Not classified,,34678.06232,81.41463415
+136,2009,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,,35212.42048,80.05121951
+137,2009,ITA,Italy,Europe & Central Asia,High income,Not classified,,34602.89696,81.63658537
+138,2009,JPN,Japan,East Asia & Pacific,High income,Not classified,,33547.28342,82.93146341
+139,2009,USA,United States,North America,High income,Not classified,,47194.94335,78.3902439
+140,2010,CAN,Canada,North America,High income,Not classified,12.43,40099.44824,81.24634146
+141,2010,DEU,Germany,Europe & Central Asia,High income,Not classified,12.2,38952.6946,79.98780488
+142,2010,FRA,France,Europe & Central Asia,High income,Not classified,10.01,35902.90311,81.66341463
+143,2010,GBR,United Kingdom,Europe & Central Asia,High income,Not classified,11.3,36576.58654,80.40243902
+144,2010,ITA,Italy,Europe & Central Asia,High income,Not classified,9.11,35158.44184,82.03658537
+145,2010,JPN,Japan,East Asia & Pacific,High income,Not classified,11.22,35335.37351,82.84268293
+146,2010,USA,United States,North America,High income,Not classified,13.53,48650.64313,78.54146341
